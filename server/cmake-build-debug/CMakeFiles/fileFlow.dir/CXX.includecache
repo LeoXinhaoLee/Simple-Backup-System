@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/se/software_class/Tar_Untar_cpp/server/define.h
+iostream
+-
+
+/home/se/software_class/Tar_Untar_cpp/server/main.cpp
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+string
+-
+fstream
+-
+iostream
+-
+define.h
+/home/se/software_class/Tar_Untar_cpp/server/define.h
+dirent.h
+-
+sys/stat.h
+-
+

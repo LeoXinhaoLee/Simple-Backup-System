@@ -1,0 +1,3 @@
+/home/se/software_class/Tar_Untar_cpp/znfs_lib_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/se/software_class/Tar_Untar_cpp/znfs_lib_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/se/software_class/Tar_Untar_cpp/znfs_lib_4/cmake-build-debug/CMakeFiles/znfs_lib_4.dir

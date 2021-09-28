@@ -1,0 +1,3 @@
+/home/se/software_class/Tar_Untar_cpp/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/se/software_class/Tar_Untar_cpp/server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/se/software_class/Tar_Untar_cpp/server/cmake-build-debug/CMakeFiles/fileFlow.dir
